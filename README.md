@@ -1,2 +1,2 @@
-# RoomReservation-FRONTEND
- The frontend part of the room reservation project.
+# FleaMarket-FRONTEND
+ The frontend part of the flea market project.
